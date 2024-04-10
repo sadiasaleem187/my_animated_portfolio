@@ -12,12 +12,12 @@ const Work = () => {
 '>Work</h1>
  
   <div  className='grid sm:grid-cols-1 md:grid-cols-2 gap-8 py-4 w-auto px-4'>
-                <Link   href={"https://burger-landing-three.vercel.app/"} target='_main'>
+                <Link   href={"https://burger-landing-henna.vercel.app"} target='_main'>
                     <Image  src="/burger_landing.JPG" alt="" width={600} height={600} className='rounded-xl hover:scale-105 '/>
                   
                 </Link>
                 <Link   href={"https://foodweb-sable.vercel.app"} target='_main'>
-                    <Image  src="/food_web.JPG" alt="" width={600} height={600} className='rounded-xl hover:scale-105  '/>
+                    <Image  src="/Food_web.JPG" alt="" width={600} height={600} className='rounded-xl hover:scale-105  '/>
                     
                 </Link>
                 <Link   href={"https://agencywebsite-xi.vercel.app/"} target='_main'>
